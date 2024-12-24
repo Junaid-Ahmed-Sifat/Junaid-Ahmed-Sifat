@@ -15,12 +15,8 @@ I'm a student currently pursuing a degree in **Computer Science** at _[Brac](htt
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Junaid-Ahmed-Sifat&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Sifat's github stats" />
 
 
+<br/>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
-
-*NOTE: Top languages does not indicate my skill level, it's a GitHub metric of which languages I have used the most for coding.*
+<a href="https://github.com/irtiza1999">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Ahmed-Sifat&layout=compact&theme=tokyonight" />
+</a>
