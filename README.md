@@ -15,11 +15,7 @@ I'm a student currently pursuing a degree in **Computer Science** at _[Brac](htt
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Junaid-Ahmed-Sifat&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Sifat's github stats" />
 
 
-- **Total Stars:** [Number]
-- **Total Commits:** [Number]
-- **Total PRs:** [Number]
-- **Total Issues:** [Number]
-- **Contributed to:** [Number]
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
 
