@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I am Junaid Ahmed Sifat 👋
 
-<!--
-**Junaid-Ahmed-Sifat/Junaid-Ahmed-Sifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently pursuing a degree in **Computer Science** at _[Brac](https://www.bracu.ac.bd/) _ .I have a strong interest in data analytics, web development, data science, etc., and am constantly learning and improving my skills through projects, coursework, and self-driven exploration.
 
-Here are some ideas to get you started:
+💡 I'm eager to apply my knowledge and skills in real-world applications and open to opportunities where I can contribute and grow as a data analyst, web developer, software developer, data scientist, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Languages and Tools!
+  **Languages** - `HTML5, CSS, JavaScript, Python, PHP, React`
+  **Database** - `SQL Server ,SQL ,PostgreSQL,MongoDB`
+  **Tools** - `Git,MongoDB` 
+
+
+  ## GitHub Stats
+
+### [Your Name]'s GitHub Stats
+
+- **Total Stars:** [Number]
+- **Total Commits:** [Number]
+- **Total PRs:** [Number]
+- **Total Issues:** [Number]
+- **Contributed to:** [Number]
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
+
+*NOTE: Top languages does not indicate my skill level, it's a GitHub metric of which languages I have used the most for coding.*
