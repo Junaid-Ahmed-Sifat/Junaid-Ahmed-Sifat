@@ -12,7 +12,7 @@ I'm a student currently pursuing a degree in **Computer Science** at _[Brac](htt
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Junaid Ahmed Sifat&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Sifat's github stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Junaid-Ahmed-Sifat&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Sifat's github stats" />
 
 
 - **Total Stars:** [Number]
