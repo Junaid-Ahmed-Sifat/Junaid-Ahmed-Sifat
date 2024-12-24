@@ -10,9 +10,10 @@ I'm a student currently pursuing a degree in **Computer Science** at _[Brac](htt
   **Tools** - `Git,MongoDB` 
 
 
-  ## GitHub Stats
+### GitHub Stats
 
-### [Junaid Ahmed Sifat]'s GitHub Stats
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Junaid Ahmed Sifat&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Sifat's github stats" />
+
 
 - **Total Stars:** [Number]
 - **Total Commits:** [Number]
