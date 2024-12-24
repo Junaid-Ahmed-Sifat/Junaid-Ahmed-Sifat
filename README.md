@@ -34,11 +34,11 @@ I'm a student currently pursuing a degree in **Computer Science**.I have a stron
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Junaid-Ahmed-Sifat&show_icons=true&include_all_commits=true&theme=omni&count_private=true)" alt="Sifat's github stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Junaid-Ahmed-Sifat&show_icons=true&include_all_commits=true&theme=dracula&count_private=true)" alt="Sifat's github stats" />
 
 
 <br/>
 
 <a href="https://github.com/irtiza1999">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Ahmed-Sifat&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Ahmed-Sifat&layout=compact&theme=dracula" />
 </a>
