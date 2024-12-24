@@ -12,7 +12,7 @@ I'm a student currently pursuing a degree in **Computer Science** at _[Brac](htt
 
   ## GitHub Stats
 
-### [Your Name]'s GitHub Stats
+### [Junaid Ahmed Sifat]'s GitHub Stats
 
 - **Total Stars:** [Number]
 - **Total Commits:** [Number]
