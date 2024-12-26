@@ -39,6 +39,6 @@ I'm a student currently pursuing a degree in **Computer Science**.I have a stron
 
 <br/>
 
-<a href="https://github.com/irtiza1999">
+<a href="https://github.com/Junaid-Ahmed-Sifat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Ahmed-Sifat&layout=compact&theme=dracula" />
 </a>
